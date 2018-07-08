@@ -34,7 +34,7 @@ limitations under the License.
                 <include>README.md</include>
                 <include>docker-compose*</include>
                 <include>run_docker.sh</include>
-                <include>README.md</include>
+                <include>infinitest.filters</include>
             </includes>
         </fileSet>
     </fileSets>
