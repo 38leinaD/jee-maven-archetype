@@ -4,7 +4,7 @@
     <name>jee-maven-archetype</name>
     <groupId>de.dplatz</groupId>
     <artifactId>jee-maven-archetype</artifactId>
-    <version>7.00</version>
+    <version>7.01</version>
     <packaging>maven-archetype</packaging>
     <description>Quickstart Java EE development</description>
     <url>http://www.dplatz.de</url>
